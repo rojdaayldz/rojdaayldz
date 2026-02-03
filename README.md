@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rojda 👋</h1>
+<p align="center">
+  Computer Engineering senior student | AI & Web Development enthusiast
+</p>
 
-<!--
-**rojdaayldz/rojdaayldz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 Senior Computer Engineering student  
+- 🤖 Interested in Artificial Intelligence, Deep Learning, and Web Development  
+- 📚 Actively improving my skills through hands-on projects and continuous learning  
+- 🌍 English level: B1 (still improving and practicing)
+
+
+
+### 🚀 What I’m Working On
+
+- 🧠 Learning Deep Learning fundamentals with Python  
+- 🌐 Building small web projects using HTML, CSS, and JavaScript  
+- 🔍 Strengthening problem-solving and software development skills  
+- 📈 Growing my GitHub portfolio step by step
+
+
+
+
+### 🛠 Tech Stack
+
+**Programming Languages**
+- Python  
+- C#  
+
+**Web Technologies**
+- HTML  
+- CSS  
+
+**Concepts & Tools**
+- Machine Learning basics  
+- Deep Learning fundamentals  
+- Computer Networks (OSI, TCP/IP)
+
+
+### 🌱 Currently Learning
+- Advanced Python  
+- Deep Learning models  
+- Clean code & best practices
+
+
+### 📫 Contact Me
+
+- 📧 Email: yildizrojda213@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/Rojda Yıldız 
+- 💻 GitHub: https://github.com/rojdaayldz  
